@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 3-Tier Python + PostgreSQL Application
 
 This project is a 3-tier web application built using Python for the backend, with PostgreSQL as the database. The application consists of a presentation layer, a business logic layer, and a data access layer.
@@ -144,3 +145,6 @@ Once the environment and database are set up, you can run the application with t
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+=======
+# 3-Tier-Python-Postgres
+>>>>>>> 83bb3fc735d68938ef4930ddb59816fc91722f2f
